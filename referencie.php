@@ -8,9 +8,9 @@
         
       <br/> 
 <h3> 2012 </h3>
- <!--b>31. December 2012</b> - Pieštany - Kúpele - <b>Silvestrovské vystúpenia</b> - Fire + UV show     <br/--> 
- <!--b>21. December 2012</b> - Pieštany - <b>Neviem co</b> - Fire + UV show    <br/--> 
- <!--b>14. December 2012</b> - Banská Bystrica -  <b>Vianoťná párty drevorubačov</b> - Fire + UV show    <br/--> 
+ <b>31. December 2012</b> - Pieštany - Kúpele - Balnea Resort - <b>Silvestrovské vystúpenia</b> - UV show     <br/> 
+ <b>21. December 2012</b> - Pieštany - Hotela SOREA SĹŇAVA - <b>Vianočný večierok</b> - UV show    <br/> 
+ <b>14. December 2012</b> - Banská Bystrica -  <b>Vianočná párty drevorubačov</b> - Fire + UV show    <br/> 
  <b>7. December 2012</b> - Ludanice - Základná škola - <b>Noc v škole</b> <br/> 
  <b>29. September 2012</b> - Veľké Rovné - Námestie  <b></b> <br/> 
  <b>15. September 2012</b> - Bratislava - Kačín - <b>Bratislavské skautské dni</b> <br/> 
